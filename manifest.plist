@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ir.aban.abanTether</string>
+				<string>ir.aban.th</string>
 				<key>bundle-version</key>
-				<string>5.0.4</string>
+				<string>6.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
